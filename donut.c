@@ -1,3 +1,4 @@
+#import pygame
 //Create main
 int main() {
 
